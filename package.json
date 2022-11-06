@@ -1,0 +1,27 @@
+{
+  "name": "top-100-movies",
+  "version": "1.0.0",
+  "description": "It lists top 100 movies from the imdb",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvindrk47/Top100.git"
+  },
+  "keywords": [
+    "movies",
+    "tvseries",
+    "action",
+    "fantasy",
+    "crime",
+    "thriller"
+  ],
+  "author": "KV ARAVINDH, ARVIND R K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arvindrk47/Top100/issues"
+  },
+  "homepage": "https://github.com/arvindrk47/Top100#readme"
+}
